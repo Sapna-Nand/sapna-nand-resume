@@ -1,0 +1,143 @@
+{
+  "meta": {
+    "title": "Sapna Nand - Professional Resume",
+    "description": "Dedicated pharmaceutical professional with 6+ years of experience in team leadership, customer service, and pharmacy operations"
+  },
+  "hero": {
+    "name": "Sapna Nand",
+    "title": "Team Leader | Pharmaceutical Commercial Assistant",
+    "description": "Dedicated pharmaceutical professional with 6+ years of experience in team leadership, customer service, and pharmacy operations.",
+    "linkedin_button": "View LinkedIn Profile",
+    "download_button": "Download Resume"
+  },
+  "contact": {
+    "location": "Vienna, Austria",
+    "email": "sapna.nand.office@gmail.com"
+  },
+  "sections": {
+    "professional_summary": "Professional Summary",
+    "work_experience": "Work Experience",
+    "education": "Education",
+    "skills": "Skills & Expertise",
+    "languages": "Languages",
+    "personal_interests": "Personal Interests",
+    "connect": "Let's Connect"
+  },
+  "professional_summary": {
+    "traits": {
+      "dedicated": "Dedicated",
+      "pragmatic": "Pragmatic",
+      "resourceful": "Resourceful",
+      "passionate": "Passionate"
+    },
+    "leadership": {
+      "title": "Team Leadership & Collaboration",
+      "description": "Over the past five years, I've worked hand-in-hand with the pharmacy owner to guide staffing decisions, optimize workflows, and mentor new interns. I focus on creating clear training paths and a supportive environment, helping our smaller team maintain the stability and expertise we need."
+    },
+    "customer": {
+      "title": "Customer Engagement & Results",
+      "description": "I consult with customers daily, providing personalized advice and building trust through reliable, informed service. By combining operational know-how with hands-on guidance, I help our pharmacy deliver consistent results and adapt smoothly to evolving challenges."
+    },
+    "operational": {
+      "title": "Operational Expertise",
+      "description": "With six years in pharmacy operations—including magistral formulations, inventory management, ordering, and taxation—I've developed a deep, practical understanding of every process. Starting as an intern and advancing to a PKA role, I've built a solid foundation that ensures our pharmacy runs efficiently day to day."
+    }
+  },
+  "experience": {
+    "position": "PKA - Pharmaceutical Commercial Assistant",
+    "company": "Grinzinger Apotheke",
+    "duration": "Oct 2018 - Present",
+    "years": "6+ years",
+    "type": "Full-time",
+    "location": "Grinzing, Vienna",
+    "description": "Leading pharmaceutical operations including magistral formulations, inventory management, customer consultation, and team coordination. Responsible for training new staff, optimizing workflows, and ensuring regulatory compliance in all pharmacy operations."
+  },
+  "education": {
+    "vocational": {
+      "title": "Vocational Training - Pharmacy Employee/Assistant",
+      "school": "Berufsschule für Handel und Reisen",
+      "duration": "Sept 2021 - June 2023",
+      "description": "During my studies, I acquired a solid foundation in pharmacy science, botanical therapeutics, core chemistry principles, nutrition and health science, cosmetic formulation, hands-on laboratory techniques, and essential accounting practices."
+    },
+    "pka": {
+      "title": "PKA Training",
+      "school": "Apotheke",
+      "description": "During my pharmacy technician (PKA) training, I became familiar with daily pharmacy operations—including inventory management, order processing, prescription handling, customer consultation, and administrative tasks."
+    }
+  },
+  "skills": {
+    "professional": {
+      "title": "Professional Skills",
+      "items": [
+        "Sales Processes",
+        "Customer Experience",
+        "Purchasing Management",
+        "CRM",
+        "Customer Experience Management"
+      ]
+    },
+    "pharmaceutical": {
+      "title": "Pharmaceutical Expertise",
+      "items": [
+        "Botany",
+        "Chemistry",
+        "Pharmaceutical Trade",
+        "Herbal Medicines",
+        "Pharmaceutical Compounding",
+        "Pharmacy Technology"
+      ]
+    },
+    "management": {
+      "title": "Management & Leadership",
+      "items": [
+        "Personnel Planning",
+        "Organizational Skills",
+        "Communication",
+        "Team Leadership"
+      ]
+    },
+    "technical": {
+      "title": "Technical Skills",
+      "items": [
+        "Microsoft Office Suite",
+        "Excel",
+        "Word",
+        "PowerPoint",
+        "Outlook",
+        "Riposte"
+      ]
+    }
+  },
+  "languages": {
+    "german": {
+      "name": "German",
+      "level": "Native"
+    },
+    "hindi": {
+      "name": "Hindi",
+      "level": "Native"
+    },
+    "english": {
+      "name": "English",
+      "level": "Fluent"
+    }
+  },
+  "interests": {
+    "drawing": "Drawing",
+    "birdies": "Playing with my birdies",
+    "spicy_food": "Spicy food"
+  },
+  "cta": {
+    "title": "Let's Connect",
+    "description": "Interested in hands-on procurement expertise, sales operations, or customer relationship management? I'd love to discuss how my practical experience in pharmaceutical retail and team coordination can contribute to your organization.",
+    "linkedin_button": "Connect on LinkedIn",
+    "download_button": "Download Resume"
+  },
+  "ui": {
+    "generating": "Generating...",
+    "close": "Close",
+    "previous": "Previous",
+    "next": "Next"
+  }
+}
+
