@@ -1,0 +1,143 @@
+{
+  "meta": {
+    "title": "Sapna Nand - Professioneller Lebenslauf",
+    "description": "Engagierte pharmazeutische Fachkraft mit über 6 Jahren Erfahrung in Teamführung, Kundenservice und Apothekenbetrieb"
+  },
+  "hero": {
+    "name": "Sapna Nand",
+    "title": "Teamleiterin | Pharmazeutisch-kaufmännische Assistentin",
+    "description": "Engagierte pharmazeutische Fachkraft mit über 6 Jahren Erfahrung in Teamführung, Kundenservice und Apothekenbetrieb.",
+    "linkedin_button": "LinkedIn-Profil ansehen",
+    "download_button": "Lebenslauf herunterladen"
+  },
+  "contact": {
+    "location": "Wien, Österreich",
+    "email": "sapna.nand.office@gmail.com"
+  },
+  "sections": {
+    "professional_summary": "Berufliche Zusammenfassung",
+    "work_experience": "Berufserfahrung",
+    "education": "Ausbildung",
+    "skills": "Fähigkeiten & Expertise",
+    "languages": "Sprachen",
+    "personal_interests": "Persönliche Interessen",
+    "connect": "Kontakt aufnehmen"
+  },
+  "professional_summary": {
+    "traits": {
+      "dedicated": "Engagiert",
+      "pragmatic": "Pragmatisch",
+      "resourceful": "Einfallsreich",
+      "passionate": "Leidenschaftlich"
+    },
+    "leadership": {
+      "title": "Teamführung & Zusammenarbeit",
+      "description": "In den letzten fünf Jahren habe ich Hand in Hand mit dem Apothekeninhaber Personalentscheidungen begleitet, Arbeitsabläufe optimiert und neue Praktikanten fachlich angeleitet. Dabei lege ich besonderen Wert auf klare Schulungsstrukturen und ein unterstützendes Umfeld, um unserem kleinen Team die nötige Stabilität und Fachkompetenz zu sichern."
+    },
+    "customer": {
+      "title": "Kundenbetreuung & Ergebnisse",
+      "description": "Ich berate täglich unsere Kundinnen und Kunden, biete individuelle Empfehlungen an und schaffe Vertrauen durch eine verlässliche und fachkundige Betreuung. Durch die Verbindung von operativem Know-how mit praxisorientierter Anleitung unterstütze ich unsere Apotheke dabei, gleichbleibend hervorragende Ergebnisse zu erzielen und sich reibungslos an neue Herausforderungen anzupassen."
+    },
+    "operational": {
+      "title": "Operative Expertise",
+      "description": "Mit sechs Jahren Erfahrung im Apothekenbetrieb – einschließlich Magistralrezepturen, Lagerverwaltung, Bestellwesen und steuerlicher Abwicklung – habe ich ein tiefgehendes, praxisorientiertes Verständnis aller Abläufe entwickelt. Begonnen als Praktikant und aufgestiegen zur Pharmazeutisch-kaufmännischen Assistentin (PKA) habe ich mir ein solides Fundament erarbeitet, das den reibungslosen und effizienten Tagesbetrieb unserer Apotheke gewährleistet."
+    }
+  },
+  "experience": {
+    "position": "PKA - Pharmazeutisch-kaufmännische Angestellte",
+    "company": "Grinzinger Apotheke",
+    "duration": "Okt 2018 - Heute",
+    "years": "6+ Jahre",
+    "type": "Vollzeit",
+    "location": "Grinzing, Wien",
+    "description": "Leitung der pharmazeutischen Betriebsabläufe, einschließlich Magistralrezepturen, Lagerverwaltung, Kundenberatung und Teamkoordination. Verantwortlich für die Einarbeitung neuer Mitarbeitender, die Optimierung von Arbeitsabläufen und die Sicherstellung der regulatorischen Konformität aller Apothekenprozesse."
+  },
+  "education": {
+    "vocational": {
+      "title": "Berufsausbildung - Apothekenmitarbeiter/in",
+      "school": "Berufsschule für Handel und Reisen",
+      "duration": "Sept 2021 - Juni 2023",
+      "description": "Während meines Studiums habe ich mir fundierte Kenntnisse in Pharmawissenschaften, botanischer Therapie, den wesentlichen Grundlagen der Chemie, Ernährungs- und Gesundheitswissenschaften, kosmetischer Formulierung, praktischen Labortechniken sowie in grundlegenden Buchhaltungsabläufen angeeignet."
+    },
+    "pka": {
+      "title": "PKA-Ausbildung",
+      "school": "Apotheke",
+      "description": "Im Rahmen meiner Ausbildung zur Pharmazeutisch-kaufmännischen Assistentin (PKA) habe ich umfassende Einblicke in den Apothekenalltag erhalten – von der Lagerverwaltung über die Bearbeitung von Bestellungen und Rezepten bis hin zur Kundenberatung und den dazugehörigen administrativen Tätigkeiten."
+    }
+  },
+  "skills": {
+    "professional": {
+      "title": "Berufliche Fähigkeiten",
+      "items": [
+        "Verkaufsprozesse",
+        "Kundenerfahrung",
+        "Einkaufsmanagement",
+        "CRM",
+        "Kundenerfahrungsmanagement"
+      ]
+    },
+    "pharmaceutical": {
+      "title": "Pharmazeutische Expertise",
+      "items": [
+        "Botanik",
+        "Chemie",
+        "Pharmazeutischer Handel",
+        "Pflanzliche Arzneimittel",
+        "Pharmazeutische Herstellung",
+        "Pharmazeutische Technologie"
+      ]
+    },
+    "management": {
+      "title": "Management & Führung",
+      "items": [
+        "Personalplanung",
+        "Organisationsfähigkeiten",
+        "Kommunikation",
+        "Teamführung"
+      ]
+    },
+    "technical": {
+      "title": "Technische Fähigkeiten",
+      "items": [
+        "Microsoft Office Suite",
+        "Excel",
+        "Word",
+        "PowerPoint",
+        "Outlook",
+        "Riposte"
+      ]
+    }
+  },
+  "languages": {
+    "german": {
+      "name": "Deutsch",
+      "level": "Muttersprache"
+    },
+    "hindi": {
+      "name": "Hindi",
+      "level": "Muttersprache"
+    },
+    "english": {
+      "name": "Englisch",
+      "level": "Fließend"
+    }
+  },
+  "interests": {
+    "drawing": "Zeichnen",
+    "birdies": "Mit meinen Vögelchen spielen",
+    "spicy_food": "Scharfes Essen"
+  },
+  "cta": {
+    "title": "Kontakt aufnehmen",
+    "description": "Interessiert an praktischer Beschaffungsexpertise, Verkaufsoperationen oder Kundenbeziehungsmanagement? Ich würde gerne besprechen, wie meine praktische Erfahrung im pharmazeutischen Einzelhandel und in der Teamkoordination zu Ihrer Organisation beitragen kann.",
+    "linkedin_button": "Auf LinkedIn vernetzen",
+    "download_button": "Lebenslauf herunterladen"
+  },
+  "ui": {
+    "generating": "Wird generiert...",
+    "close": "Schließen",
+    "previous": "Zurück",
+    "next": "Weiter"
+  }
+}
+
