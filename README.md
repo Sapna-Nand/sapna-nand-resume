@@ -11,10 +11,6 @@ A modern, interactive resume website built for Sapna Nand, featuring a beautiful
 - **PDF Download**: One-click resume download functionality
 - **Professional Content**: Comprehensive showcase of skills, experience, and education
 
-## 🚀 Live Demo
-
-**Production Website**: [https://dmmohgtk.manus.space](https://dmmohgtk.manus.space)
-
 ## 📋 About Sapna Nand
 
 **Team Leader | Pharmaceutical Commercial Assistant**
@@ -65,19 +61,6 @@ sapna-resume-html/
 6. **Skills & Expertise**: Categorized skill sets with visual tags
 7. **Call to Action**: Final connection invitation
 
-## 🔧 Setup for GitHub Pages
-
-1. **Clone or Download** this repository
-2. **Upload to GitHub** repository
-3. **Enable GitHub Pages** in repository settings
-4. **Select source** as main branch / root folder
-5. **Access your site** at `https://yourusername.github.io/repository-name`
-
-### GitHub Pages Configuration
-- Source: Deploy from a branch
-- Branch: main
-- Folder: / (root)
-
 ## 📱 Responsive Design
 
 The website is fully responsive and optimized for:
@@ -104,31 +87,6 @@ The website includes an automatically generated PDF version of the resume that i
 - Formatted for printing
 - Professional layout
 - Contact information and LinkedIn profile link
-
-## 🚀 Deployment Options
-
-### Option 1: GitHub Pages (Recommended)
-1. Upload files to GitHub repository
-2. Enable GitHub Pages in settings
-3. Access via GitHub Pages URL
-
-### Option 2: Static Hosting Services
-- Netlify
-- Vercel
-- Firebase Hosting
-- AWS S3 + CloudFront
-
-### Option 3: Traditional Web Hosting
-- Upload files via FTP
-- Ensure web server supports static files
-- Configure custom domain if needed
-
-## 📞 Contact Information
-
-**Sapna Nand**
-- **LinkedIn**: [linkedin.com/in/sapna-nand-0b6120219](https://www.linkedin.com/in/sapna-nand-0b6120219/)
-- **Location**: Vienna, Austria
-- **Current Role**: PKA - Pharmaceutical Commercial Assistant at Grinzinger Apotheke
 
 ## 📝 License
 
