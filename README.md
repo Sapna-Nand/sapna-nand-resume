@@ -8,7 +8,6 @@ A modern, interactive resume website built for Sapna Nand, featuring a beautiful
 - **Responsive**: Optimized for both desktop and mobile devices
 - **Interactive Elements**: Hover effects and smooth transitions
 - **LinkedIn Integration**: Direct link to LinkedIn profile
-- **PDF Download**: One-click resume download functionality
 - **Professional Content**: Comprehensive showcase of skills, experience, and education
 
 ## 📋 About Sapna Nand
@@ -31,18 +30,6 @@ Dedicated pharmaceutical professional with 6+ years of experience in team leader
 - **Icons**: Lucide Icons (SVG)
 - **PDF Generation**: Markdown to PDF conversion
 - **Deployment**: Static hosting with CDN
-
-## 📁 Project Structure
-
-```
-sapna-resume-html/
-├── index.html              # Main website file
-├── sapna-resume.pdf         # Downloadable PDF resume
-├── src/
-│   └── assets/
-│       └── profile-placeholder.jpg
-└── README.md
-```
 
 ## 🎨 Design Features
 
@@ -74,29 +61,3 @@ The website is fully responsive and optimized for:
 - Opens LinkedIn profile in new tab
 - Professional styling with LinkedIn branding
 - Hover effects for better user experience
-
-### PDF Download Button
-- Generates and downloads PDF resume
-- Loading animation during generation
-- Professional filename: "Sapna_Nand_Resume.pdf"
-
-## 📄 PDF Resume
-
-The website includes an automatically generated PDF version of the resume that includes:
-- Complete professional information
-- Formatted for printing
-- Professional layout
-- Contact information and LinkedIn profile link
-
-## 📝 License
-
-This project is created for personal use. The design and code can be used as a template for similar resume websites.
-
-## 🤝 Contributing
-
-This is a personal resume website. For suggestions or improvements, please reach out via LinkedIn.
-
----
-
-*Built with modern web technologies for a professional online presence.*
-
